@@ -8,4 +8,5 @@ patient and a normal patient to further classify other patients if they are posi
 
 ## Main
 -----------
-The dataset we used consisted of 1025 patients. Out of these 1025 patients, we checked the balance between the positive and negative patients of heart disease and got these results.
+The dataset we used consisted of 1025 patients. Out of these 1025 patients, 
+we checked the balance between the positive and negative patients of heart disease and got these results.
