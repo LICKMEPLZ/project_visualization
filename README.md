@@ -16,7 +16,7 @@ we checked the balance between the positive and negative patients of heart disea
 Before we graphed out our patient's age, we predicted that people of old age over their 60s will consist of more positive patients. But after, we have realized that the patients of around age of 50 had the greatest number of positive heart disease patients. 
 
 <img src="./image/target_heartbeat.png">
-This graph allows us to have a better understanding of the age of the heart disease patients. Through this graph we are able to see the concentration of heart disease patients in the ages of 40-50. 
+Most heart disease patients are seen to have a relatively high heart rate. In correlation, if we look at the graph above we should be seeing our younger heart disease patients to have a high heart rate. The results of the graph show that most of all heart disease patients are seen to have a high rate despite their age. 
 
 <img src="./image/target_sex.png">
 The blue represents the male patients while the orange represents the female patients. As shown, it is clear that more female patients tend to have a heart disease, compared to the males. 
