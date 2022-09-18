@@ -19,7 +19,7 @@ Before we graphed out our patient's age, we predicted that people of old age ove
 Most heart disease patients are seen to have a relatively high heart rate. In correlation, if we look at the graph above we should be seeing our younger heart disease patients to have a high heart rate. The results of the graph show that most of all heart disease patients are seen to have a high rate despite their age. 
 
 <img src="./image/heart_count.total.png">
-(male - 0, female - 1)
+<h3>(male - 1, female - 0)</h3></br>
 Using our dataset, after analyzing the ratio of the number of male to female patients, we found out that this dataset consisted of more male patients than female patients. Therefore using the ratio of positive to negative patients of both genders in our dataset, it is clear that there are more female patients that have a heart disease compared to the males. 
 <img src="./image/age_fbs.png">
 Fbs stands for "fasting blood sugar" in which, in high ammounts, is considered to usually lead to diabetes or a type of heart disease. Although we concluded that the majority of our heart diease patients lie in the 40-50 age range, it seems that the patients of age 50-60 had the highest fbs. 
