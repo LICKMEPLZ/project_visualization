@@ -33,7 +33,7 @@ This graph is used to depict the relationship between the resting blood pressure
 
 ## Machine learning 
 ----------------------------------
-<img src="./image/datashape.PNG">
+<img src="./image/datashape.PNG" width="100">
 Using our analysis of our Heart Disease dataset, we used machine learning classification. For our machine learning classification, 
 we will have to choose our desired features but first, our dataset shape is shown above. 
 
