@@ -25,8 +25,10 @@ Using our dataset, after analyzing the ratio of the number of male to female pat
 Fbs stands for "fasting blood sugar" in which, in high ammounts, is considered to usually lead to diabetes or a type of heart disease. Although we concluded that the majority of our heart diease patients lie in the 40-50 age range, it seems that the patients of age 50-60 had the highest fbs. 
  
 <img src="./image/target_cp.png">
-In our dataset, cp standed for "chest pain". It is evident that as the degree of the chest pain increases, there tends to be a greater number of heart disease patients. However, we are unsure of the results of 3rd degreee of chest pain, in which we got lowest number of heart disease patients out of the four degrees of cp. 
+In our dataset, cp standed for "chest pain". It is evident that as the degree of the chest pain increases, there tends to be a greater number of heart disease patients. Therefore we are able to conclude that chest pain does, indeed, have an impact toward possibily having a form of heart disease. However, we are unsure of the results of 3rd degreee of chest pain, in which we got lowest number of heart disease patients out of the four degrees of cp. 
  
 <img src="./image/trestbps_cp.png">
 This graph is used to depict the relationship between the resting blood pressure and chest pain of patients. 
  
+<img src="./image/knn_classification.png">
+
