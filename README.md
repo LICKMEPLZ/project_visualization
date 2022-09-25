@@ -31,4 +31,4 @@ In our dataset, cp standed for "chest pain". It is evident that as the degree of
 This graph is used to depict the relationship between the resting blood pressure and chest pain of patients. 
  
 <img src="./image/knn_classification.png">
-
+Using our analysis of our Heart Disease dataset, we used machine learning classification. For our machine laerning classification, we used 
