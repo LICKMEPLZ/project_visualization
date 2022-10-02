@@ -37,17 +37,3 @@ This graph is used to depict the relationship between the resting blood pressure
 Using our analysis of our Heart Disease dataset, we used machine learning classification. For our machine learning classification, 
 we will have to choose our desired features but first, our dataset shape is shown above. 
 
-<img src="./image/distance_1.png">
-To analyze the realiability of our classification model, we performed a confusion matrix table. Here we can see our model have a 100% accuracy with it correctly predicting a patient as positive or negative. 
-
-<img src="./image/distance_2.png">
-This confusion matrix table was the next best performing confusion matrix table with it only incorrectly predicting 2 patients as negative. 
-
-<img src="./image/distance_3.png">
-This confusion matrix table can be seen incorrectly prediciting 2 patients as negative and 7 patients as positive. 
-
-<img src="./image/distance_4.png">
-This confusion matrix table can be seen incorrectly prediciting 19 patients as negative and 7 patients as positive. 
-
-<img src="./image/distance_lowest.png">
-Here, we have our lowest performing confusion matrix table with it incorrectly predicting 13 patients as negative and 36 patients as positive. 
