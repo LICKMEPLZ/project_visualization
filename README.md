@@ -40,7 +40,7 @@ we will have to choose our desired features but first, our dataset shape is show
 <img src="./image/distance_1.png">
 To analyze the realiability of our classification model, we performed a confusion matrix table. Here we can see our model have a 100% accuracy with it correctly predicting a patient as positive or negative. 
 
-<img src="./image/distance_2.">png
+<img src="./image/distance_2.png">
 This confusion matrix table was the next best performing confusion matrix table with it only incorrectly predicting 2 patients as negative. 
 
 <img src="./image/distance_3.png">
