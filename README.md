@@ -74,3 +74,11 @@ There are two types of correlation analysis:
 <img src="./image/distance_lowest.png" width="300" higth="300">
 
 ### Deep Learning
+<img src="./image/dnn_acc.png" width="300" higth="300"><img src="./image/dnn_confusion_metrix.png" width="300" higth="300"><br>
+Deep learning was used to predict the performance of the classification of the heart disease patients. 
+The differences between deep learning and machine learning:
+1. Machine learning learns according to patterns
+2. Deep learning learns by extracting a single characteristic of the data
+
+x and y was used the same like in machine learning. The accuracy acheived was 86%.
+Considering that the worst performance of the knn algorithm was 83%, we found that deep learning doesn't always produce better results than machine learning. 
