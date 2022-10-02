@@ -39,6 +39,38 @@ we will have to choose our desired features but first, our dataset shape is show
 
 <img src="./image/col_data.png">
 <h4> Before we performed our classification, we first need to choose our features. In order to choose our features, we found columns with strong correlations by using a heatmap.</h4>
-1.
-2.
-3.
+
+There are two types of correlation analysis:
+1. Positive Correlation (when the x and y relationship is +) <br>
+   + x: height, y: weight
+   + As a person's height increases, the weight of that person increases proportionally
+2. Negative Correlation (when the x and y relationship is -) <br>
+   + x: cigarette, y: health
+   + As a person smokes more cigarettes, their health decreases
+1. The heatmap result of the correlation between the target and 3 features (cp, slope, thalach) were identified as 0.4. Therefore, we know that these three features have almost no relation to the target's result. 
+
+### training
+----------
+<img src="./image/knn_classification.png">
+<h4>The machine learning model we used was KNN. These are the reaons behind using the KNN algorithm. </h4>
+
++ simple model design, easy to tune design
+  + algorithm is simple
++ The knn algorithm classifies the results by searching the distance values
+  + By searching using the distance values, the result of the new data is determined in the direction that contains more data within the given distance. 
++ training is not difficult and you can see the results immediately
+  + It is called lazy learning because it does not learn in advance, but learns immediately, which implies the results
++ The current data is a numerical data, which is a good match for knn
+  + knn can guarantee good performance for numerical data
+
+<h4>With the knn algorithm, the training result of the distance values from 1 to 30 is as follows:</h4>
+
+1. since there are different accuracy results depending on the distance, when using the knn alogrithm, we only used the distances with an accuracy of at least 90% to make our confusion metrix.
+2. from the left, only the distance values of k=1~4 had the accuracy of at least 90% <br>
+<img src="./image/distance_1.png" width="300" higth="300"><img src="./image/distance_2.png" width="300" higth="300"><br>
+<img src="./image/distance_3.png" width="300" higth="300"><img src="./image/distance_4.png" width="300" higth="300">
+
+3. The confusion metrix table with the lowest performance had a distance value of 26 and an accuracy of 83%
+<img src="./image/distance_lowest.png" width="300" higth="300">
+
+### Deep Learning
