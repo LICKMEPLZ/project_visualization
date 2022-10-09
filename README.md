@@ -74,7 +74,7 @@ There are two types of correlation analysis:
 <img src="./image/distance_lowest.png" width="300" higth="300">
 
 ### Deep Learning
-<img src="./image/dnn_acc.png" width="300" higth="300"><img src="./image/dnn_confusion_metrix.png" width="300" higth="300"><br>
+<img src="./image/dnn_acc.png" width="300" height="300"><img src="./image/dnn_confusion_metrix.png" width="300" higth="300"><br>
 Deep learning was used to predict the performance of the classification of the heart disease patients. 
 The differences between deep learning and machine learning:
 1. Machine learning learns according to patterns
